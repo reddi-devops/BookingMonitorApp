@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Booking Monitor</string>
+    <string name="app_title">Booking Availability Monitor</string>
+    <string name="monitoring_url_hint">Enter the booking page URL</string>
+    <string name="email_hint">Enter alert email address</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="test_monitoring">Test Monitoring</string>
+    <string name="notification_title">Booking Monitor</string>
+    <string name="notification_message">Monitoring for available dates...</string>
+    <string name="alert_title">Booking Available!</string>
+    <string name="alert_message">Dates are now available for booking</string>
+</resources>
